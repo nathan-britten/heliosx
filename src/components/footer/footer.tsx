@@ -12,7 +12,7 @@ export function Footer() {
         backgroundColor: "#1976d2",
         padding: "20px",
         display: "flex",
-        flexDirection: isMobile ? "column" : "row", // Stack columns on mobile
+        flexDirection: isMobile ? "column" : "row",
         alignItems: "center",
         justifyContent: "space-between",
         gap: 2,
