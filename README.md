@@ -19,8 +19,8 @@ I didn't implement `react-query` or a similar library in this instance because w
 **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/genovian-pears-consultation.git
-cd genovian-pears-consultation
+git clone git@github.com:nathan-britten/heliosx.git
+cd heliosx
 npm install
 ```
 
